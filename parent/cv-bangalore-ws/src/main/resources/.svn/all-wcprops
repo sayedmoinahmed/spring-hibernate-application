@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources
+END
+searchEmployee-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/searchEmployee-mappings.xml
+END
+employmentInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/employmentInfo-mappings.xml
+END
+contactInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/contactInfo-mappings.xml
+END
+dozerContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/dozerContext.xml
+END
+skillsInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/skillsInfo-mappings.xml
+END
+recognitionType-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/recognitionType-mappings.xml
+END
+projectInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/projectInfo-mappings.xml
+END
+applicationContext-ws.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/applicationContext-ws.xml
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/database.properties
+END
+applicationContext-dataSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/applicationContext-dataSource.xml
+END
+educationInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/educationInfo-mappings.xml
+END
+profileSummaryInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/profileSummaryInfo-mappings.xml
+END
+recognitionInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/recognitionInfo-mappings.xml
+END
+userSecurityQuestion-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/userSecurityQuestion-mappings.xml
+END
+securityQuestion-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/securityQuestion-mappings.xml
+END
+personalInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/personalInfo-mappings.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/log4j.properties
+END
+addressInfo-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/addressInfo-mappings.xml
+END
+skillsType-mappings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/resources/skillsType-mappings.xml
+END

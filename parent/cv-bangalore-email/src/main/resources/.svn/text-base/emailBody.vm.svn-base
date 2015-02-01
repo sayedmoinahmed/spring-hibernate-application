@@ -1,0 +1,13 @@
+<html>
+<body>
+
+<h1>Welcome to RMS System</h1>
+<p>Welcome ${firstName} ${lastName}.</p>
+
+<p>You have completed your Resume and can download by clicking on the below Link</p>
+
+<p><a href="${generatedResumeLink}">View and Download Resume</a></p>
+
+<p>Thank you For Accessing RMS System.</p>
+</body>
+</html>

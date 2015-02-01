@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/impl
+END
+PersonalInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/impl/PersonalInfoDaoImpl.java
+END
+OrganizationInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/impl/OrganizationInfoDaoImpl.java
+END
+AllocationInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/impl/AllocationInfoDaoImpl.java
+END
+AssignmentInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/impl/AssignmentInfoDaoImpl.java
+END

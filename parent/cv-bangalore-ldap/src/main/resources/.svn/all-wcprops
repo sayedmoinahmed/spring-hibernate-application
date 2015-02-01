@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ldap/src/main/resources
+END
+applicationContext-ldap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ldap/src/main/resources/applicationContext-ldap.xml
+END
+ldap.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ldap/src/main/resources/ldap.properties
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/beans/comparator
+END
+EmploymentComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/beans/comparator/EmploymentComparator.java
+END
+HirarchyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/beans/comparator/HirarchyComparator.java
+END
+EducationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/beans/comparator/EducationComparator.java
+END
+ProjectComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/beans/comparator/ProjectComparator.java
+END

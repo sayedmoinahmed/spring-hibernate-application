@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+	<mapping>
+		<class-a>org.sapient.hibernate.entity.EmploymentInfoEntity</class-a>
+		<class-b>org.sapient.service.beans.EmploymentInfoVO</class-b>
+		<field>
+			<a>id</a>
+			<b>employmentInfoId</b>
+		</field>
+		<field>
+			<a>employerName</a>
+			<b>employerName</b>
+		</field>
+		<field>
+			<a>employmentType</a>
+			<b>employmentType</b>
+		</field>
+		<field>
+			<a>dateOfJoining</a>
+			<b>dateOfJoining</b>
+		</field>
+		<field>
+			<a>dateOfRelieving</a>
+			<b>dateOfRelieving</b>
+		</field>
+		<field>
+			<a>designation</a>
+			<b>designation</b>
+		</field>
+		<field>
+			<a>supervisorName</a>
+			<b>supervisorName</b>
+		</field>
+	</mapping>
+</mappings>

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator
+END
+PersonalInformationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/PersonalInformationValidator.java
+END
+EducationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/EducationValidator.java
+END
+ProjectInformationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/ProjectInformationValidator.java
+END
+DateValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/DateValidator.java
+END
+ProfileSummaryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/ProfileSummaryValidator.java
+END
+EmploymentInformationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/EmploymentInformationValidator.java
+END
+RecognitionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/RecognitionValidator.java
+END
+ContactInformationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/ContactInformationValidator.java
+END
+SkillInformationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/SkillInformationValidator.java
+END
+ResetPasswordValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/ResetPasswordValidator.java
+END
+UpdateCredientialValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/UpdateCredientialValidator.java
+END
+ChangePasswordValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/ChangePasswordValidator.java
+END
+LoginValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/LoginValidator.java
+END
+UserLoginNameValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/controller/validator/UserLoginNameValidator.java
+END

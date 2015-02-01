@@ -1,0 +1,10 @@
+ws.client.serviceClass=org.sapient.service.client.ResumeManagementService
+ws.client.wsdl=http://localhost:8080/CVBangaloreWS/ResumeManagerService?wsdl
+ldap.url=ldap://10.209.6.150:10389
+ldap.userDn=uid=admin,ou=system
+ldap.password=secret
+ldap.base=dc=example,dc=com
+mail.userName=
+mail.password=
+mail.recipient=ResumeforStaffing@sapient.com
+mail.subject=Congratulations - Your Resume is available for Public Viewing

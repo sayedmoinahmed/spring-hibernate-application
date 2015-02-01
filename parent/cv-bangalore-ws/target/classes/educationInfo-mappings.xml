@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+	<mapping>
+		<class-a>org.sapient.hibernate.entity.EducationInfoEntity</class-a>
+		<class-b>org.sapient.service.beans.EducationInfoVO</class-b>
+		<field>
+			<a>id</a>
+			<b>educationInfoId</b>
+		</field>
+		<field>
+			<a>courseName</a>
+			<b>courseName</b>
+		</field>
+		<field>
+			<a>specialization</a>
+			<b>specialization</b>
+		</field>
+		<field>
+			<a>university</a>
+			<b>university</b>
+		</field>
+		<field>
+			<a>institution</a>
+			<b>institution</b>
+		</field>
+		<field>
+			<a>yearOfJoining</a>
+			<b>yearOfJoining</b>
+		</field>
+		<field>
+			<a>yearOfPassing</a>
+			<b>yearOfPassing</b>
+		</field>
+		<field>
+			<a>aggregate</a>
+			<b>aggregate</b>
+		</field>
+	</mapping>
+</mappings>

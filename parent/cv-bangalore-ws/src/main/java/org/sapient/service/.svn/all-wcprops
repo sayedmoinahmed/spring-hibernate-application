@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service
+END
+ContactDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ContactDetailService.java
+END
+ResumeManagementServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ResumeManagementServiceImpl.java
+END
+EducationDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/EducationDetailServiceImpl.java
+END
+UserSecurityQuestionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/UserSecurityQuestionServiceImpl.java
+END
+SecurityQuestionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/SecurityQuestionServiceImpl.java
+END
+ProfileSummaryDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ProfileSummaryDetailServiceImpl.java
+END
+UserDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/UserDetailServiceImpl.java
+END
+SkillsDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/SkillsDetailService.java
+END
+RecognitionDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/RecognitionDetailServiceImpl.java
+END
+SearchEmployeeDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/SearchEmployeeDetailService.java
+END
+ProjectDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ProjectDetailService.java
+END
+AddressDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/AddressDetailServiceImpl.java
+END
+ResumeManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ResumeManagementService.java
+END
+UserSecurityQuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/UserSecurityQuestionService.java
+END
+EmploymentDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/EmploymentDetailServiceImpl.java
+END
+EducationDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/EducationDetailService.java
+END
+SecurityQuestionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/SecurityQuestionService.java
+END
+ContactDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ContactDetailServiceImpl.java
+END
+ProfileSummaryDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ProfileSummaryDetailService.java
+END
+UserDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/UserDetailService.java
+END
+RecognitionDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/RecognitionDetailService.java
+END
+SkillsDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/SkillsDetailServiceImpl.java
+END
+AddressDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/AddressDetailService.java
+END
+SearchEmployeeDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/SearchEmployeeDetailServiceImpl.java
+END
+ProjectDetailServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/ProjectDetailServiceImpl.java
+END
+EmploymentDetailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/main/java/org/sapient/service/EmploymentDetailService.java
+END

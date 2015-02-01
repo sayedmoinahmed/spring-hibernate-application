@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/resources
+END
+cv_bangalore_uat_dml.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/resources/cv_bangalore_uat_dml.sql
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/resources/applicationContext-dao.xml
+END
+cv_bangalore_qa_dml.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/resources/cv_bangalore_qa_dml.sql
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/resources/hibernate.cfg.xml
+END

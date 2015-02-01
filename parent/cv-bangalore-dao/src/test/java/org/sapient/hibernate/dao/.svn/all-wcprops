@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao
+END
+RecognitionInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/RecognitionInfoDaoTest.java
+END
+SkillsInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/SkillsInfoDaoTest.java
+END
+UserSecurityQuestionDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/UserSecurityQuestionDaoTest.java
+END
+SecurityQuestionDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/SecurityQuestionDaoTest.java
+END
+AddressInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/AddressInfoDaoTest.java
+END
+ProjectInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/ProjectInfoDaoTest.java
+END
+EmploymentInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/EmploymentInfoDaoTest.java
+END
+SearchEmployeeDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/SearchEmployeeDaoTest.java
+END
+ContactInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/ContactInfoDaoTest.java
+END
+EducationInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/EducationInfoDaoTest.java
+END
+PersonalDataInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/PersonalDataInfoDaoTest.java
+END
+ProfileSummaryInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/ProfileSummaryInfoDaoTest.java
+END
+UserInfoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/test/java/org/sapient/hibernate/dao/UserInfoDaoTest.java
+END

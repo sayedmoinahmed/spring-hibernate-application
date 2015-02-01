@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao
+END
+SkillsInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/SkillsInfoDao.java
+END
+OrganizationInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/OrganizationInfoDao.java
+END
+RecognitionTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/RecognitionTypeDao.java
+END
+ProjectInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/ProjectInfoDao.java
+END
+AssignmentInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/AssignmentInfoDao.java
+END
+EducationInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/EducationInfoDao.java
+END
+PersonalDataInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/PersonalDataInfoDao.java
+END
+ProfileSummaryInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/ProfileSummaryInfoDao.java
+END
+UserInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/UserInfoDao.java
+END
+RecognitionInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/RecognitionInfoDao.java
+END
+UserSecurityQuestionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/UserSecurityQuestionDao.java
+END
+SecurityQuestionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/SecurityQuestionDao.java
+END
+PersonalInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/PersonalInfoDao.java
+END
+AllocationInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/AllocationInfoDao.java
+END
+AddressInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/AddressInfoDao.java
+END
+SkillsTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/SkillsTypeDao.java
+END
+SearchEmployeeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/SearchEmployeeDao.java
+END
+EmploymentInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/EmploymentInfoDao.java
+END
+ContactInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/ContactInfoDao.java
+END

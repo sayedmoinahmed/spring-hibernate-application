@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+	<mapping>
+		<class-a>org.sapient.hibernate.entity.ContactInfoEntity</class-a>
+		<class-b>org.sapient.service.beans.ContactInfoVO</class-b>
+		<field>
+			<a>id</a>
+			<b>contactInfoId</b>
+		</field>
+		<field>
+			<a>primaryEmail</a>
+			<b>primaryEmail</b>
+		</field>
+		<field>
+			<a>secondaryEmail</a>
+			<b>secondaryEmail</b>
+		</field>
+		<field>
+			<a>mobileNumber</a>
+			<b>mobileNumber</b>
+		</field>
+		<field>
+			<a>officeNumber</a>
+			<b>officeNumber</b>
+		</field>
+		<field>
+			<a>extension</a>
+			<b>extension</b>
+		</field>
+		<field>
+			<a>emergency</a>
+			<b>emergency</b>
+		</field>
+	</mapping>
+</mappings>

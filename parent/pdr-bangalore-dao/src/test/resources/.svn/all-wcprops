@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/test/resources
+END
+applicationContext-resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/test/resources/applicationContext-resources.xml
+END
+insert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/test/resources/insert.xml
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/test/resources/jdbc.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/test/resources/log4j.xml
+END

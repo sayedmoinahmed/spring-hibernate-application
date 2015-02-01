@@ -1,0 +1,20 @@
+hibernate.connection.show_sql=true
+hibernate.format_sql=true
+hibernate.query.substitutions=true 'Y', false 'N'
+hibernate.cache.use_second_level_cache=true
+hibernate.cache.provider_class=org.hibernate.cache.EhCacheProvider
+hibernate.use_sql_comments=true
+hibernate.dialect=org.hibernate.dialect.MySQL5InnoDBDialect
+
+ldap.url=ldap://localhost:10389
+ldap.userDn=uid=admin,ou=system
+ldap.password=secret
+ldap.base=dc=example,dc=com
+
+jdbc.driverClassName=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://localhost:3306/cv_bangalore_qa
+jdbc.userName=root
+jdbc.password=password
+
+mail.userName=
+mail.password=

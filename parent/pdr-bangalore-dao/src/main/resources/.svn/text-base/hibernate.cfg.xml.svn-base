@@ -1,0 +1,11 @@
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+		<mapping class="org.sapient.hibernate.pdr.entity.AllocationInfoEntity" />
+		<mapping class="org.sapient.hibernate.pdr.entity.AssignmentInfoEntity" />
+		<mapping class="org.sapient.hibernate.pdr.entity.OrganizationInfoEntity" />
+		<mapping class="org.sapient.hibernate.pdr.entity.PersonalInfoEntity" />		
+	</session-factory>
+</hibernate-configuration>

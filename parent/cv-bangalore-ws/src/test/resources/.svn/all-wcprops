@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/test/resources
+END
+applicationContext-resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/test/resources/applicationContext-resources.xml
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-ws/src/test/resources/jdbc.properties
+END

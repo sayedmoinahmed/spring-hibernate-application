@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions name="ResumeManagementServiceImplService" targetNamespace="http://sapient.org/ResumeManagementService" xmlns:ns1="http://service.sapient.org/" xmlns:ns2="http://cxf.apache.org/bindings/xformat" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://sapient.org/ResumeManagementService" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <wsdl:import location="http://localhost:8080/CVBangaloreWS/ResumeManagerService?wsdl=ResumeManagementService.wsdl" namespace="http://service.sapient.org/">
+    </wsdl:import>
+  <wsdl:binding name="ResumeManagementServiceImplServiceSoapBinding" type="ns1:ResumeManagementService">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="retrieveAllSecurityQuestions">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveAllSecurityQuestions">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveAllSecurityQuestionsResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveSkillsDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveSkillsDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveSkillsDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveEmploymentInformationById">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveEmploymentInformationById">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveEmploymentInformationByIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveProjectInformationById">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveProjectInformationById">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveProjectInformationByIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveContactDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveContactDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveContactDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveUserSecurityQuestionById">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveUserSecurityQuestionById">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveUserSecurityQuestionByIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveEducationInformationById">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveEducationInformationById">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveEducationInformationByIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveAllSkillTypes">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveAllSkillTypes">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveAllSkillTypesResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveSkillsDetailByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveSkillsDetailByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveSkillsDetailByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCurrentEmploymentDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="getCurrentEmploymentDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getCurrentEmploymentDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveUserDetailBySupervisorId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveUserDetailBySupervisorId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveUserDetailBySupervisorIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveEducationDetailByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveEducationDetailByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveEducationDetailByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="removeEducationDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="removeEducationDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="removeEducationDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isCurrentEmployerExists">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="isCurrentEmployerExists">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="isCurrentEmployerExistsResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="removeRecognitionDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="removeRecognitionDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="removeRecognitionDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveUserInfoByLoginName">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveUserInfoByLoginName">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveUserInfoByLoginNameResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveContactDetailByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveContactDetailByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveContactDetailByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveUserSecurityQuestionByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveUserSecurityQuestionByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveUserSecurityQuestionByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveAllRecognitionTypes">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveAllRecognitionTypes">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveAllRecognitionTypesResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveRecognitionDetailByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveRecognitionDetailByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveRecognitionDetailByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateUserStatus">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="updateUserStatus">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="updateUserStatusResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveProfileSummaryDetailByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveProfileSummaryDetailByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveProfileSummaryDetailByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="savePersonalDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="savePersonalDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="savePersonalDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retriveSupervisorNameByID">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retriveSupervisorNameByID">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retriveSupervisorNameByIDResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveEmploymentDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveEmploymentDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveEmploymentDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveProjectDetails">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveProjectDetails">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveProjectDetailsResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveEducationDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveEducationDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveEducationDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveAddressDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveAddressDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveAddressDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveEmploymentDetailByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveEmploymentDetailByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveEmploymentDetailByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="removeSkillSet">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="removeSkillSet">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="removeSkillSetResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="removeProjectDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="removeProjectDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="removeProjectDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveEmployeeSearch">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveEmployeeSearch">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveEmployeeSearchResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveRecognitionDetailById">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveRecognitionDetailById">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveRecognitionDetailByIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="removeEmploymentDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="removeEmploymentDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="removeEmploymentDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveUserSecurityQuestion">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveUserSecurityQuestion">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveUserSecurityQuestionResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveProfileSummaryDetail">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveProfileSummaryDetail">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveProfileSummaryDetailResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveRecognitionDetails">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="saveRecognitionDetails">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="saveRecognitionDetailsResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveProjectDetailByUserId">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveProjectDetailByUserId">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveProjectDetailByUserIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="retrieveSkillsDetailById">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input name="retrieveSkillsDetailById">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="retrieveSkillsDetailByIdResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ResumeManagementServiceImplService">
+    <wsdl:port binding="tns:ResumeManagementServiceImplServiceSoapBinding" name="ResumeManagementServicePort">
+      <soap:address location="http://localhost:8080/CVBangaloreWS/ResumeManagerService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

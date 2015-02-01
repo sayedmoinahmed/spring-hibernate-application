@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="dozerBeanMapper" class="org.dozer.DozerBeanMapper"
+		scope="singleton">
+		<property name="mappingFiles">
+			<list>
+				<value>addressInfo-mappings.xml</value>
+				<value>contactInfo-mappings.xml</value>
+				<value>educationInfo-mappings.xml</value>
+				<value>employmentInfo-mappings.xml</value>
+				<value>personalInfo-mappings.xml</value>
+				<value>profileSummaryInfo-mappings.xml</value>
+				<value>projectInfo-mappings.xml</value>
+				<value>skillsInfo-mappings.xml</value>
+				<value>skillsType-mappings.xml</value>
+				<value>recognitionType-mappings.xml</value>
+				<value>recognitionInfo-mappings.xml</value>
+				<value>securityQuestion-mappings.xml</value>
+			</list>
+		</property>
+		<property name="customConverters">
+			<list>
+				<ref bean="dateConverter" />
+				<ref bean="timestampConverter" />
+			</list>
+		</property>
+	</bean>
+	<bean id="dateConverter" class="org.sapient.dozer.converter.DateConverter" />
+	<bean id="timestampConverter" class="org.sapient.dozer.converter.TimestampConverter" />
+</beans>

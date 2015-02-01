@@ -1,0 +1,30 @@
+<assembly xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/assembly-1.0.0.xsd">
+	<id>resources</id>
+	<formats>
+		<format>jar</format>
+	</formats>
+	<includeBaseDirectory>false</includeBaseDirectory>
+	<files>
+		<file>
+			<source>target/classes/cv-bangalore-batch.properties</source>
+			<outputDirectory>/</outputDirectory>
+			<filtered>true</filtered>
+		</file>
+		<file>
+			<source>
+				target/classes/jobContext.xml
+			</source>
+			<outputDirectory>/</outputDirectory>
+			<filtered>true</filtered>
+		</file>
+		<file>
+			<source>target/classes/personalData.csv</source>
+			<outputDirectory>/</outputDirectory>
+			<filtered>false</filtered>
+		</file>
+	</files>
+</assembly>
+

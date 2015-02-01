@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form
+END
+ProjectInformationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/ProjectInformationForm.java
+END
+PrintResumeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/PrintResumeForm.java
+END
+ProfileSummaryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/ProfileSummaryForm.java
+END
+EducationInformationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/EducationInformationForm.java
+END
+ProjectSummaryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/ProjectSummaryForm.java
+END
+SkillInformationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/SkillInformationForm.java
+END
+LoginNameInResetPasswordForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/LoginNameInResetPasswordForm.java
+END
+RecognitionInformationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/RecognitionInformationForm.java
+END
+PersonalInformationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/PersonalInformationForm.java
+END
+EducationSummaryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/EducationSummaryForm.java
+END
+SkillSummaryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/SkillSummaryForm.java
+END
+AccountCenterForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/AccountCenterForm.java
+END
+RecognitionSummaryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/RecognitionSummaryForm.java
+END
+EmploymentInformationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/EmploymentInformationForm.java
+END
+ContactInformationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/ContactInformationForm.java
+END
+PasswordUpdateForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/PasswordUpdateForm.java
+END
+ResetPasswordForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/ResetPasswordForm.java
+END
+SearchEmployeeForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/SearchEmployeeForm.java
+END
+EmploymentSummaryForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/EmploymentSummaryForm.java
+END
+LoginForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/LoginForm.java
+END
+ChangePasswordForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/ChangePasswordForm.java
+END
+CompletionTipsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-web/src/main/java/org/sapient/web/form/CompletionTipsForm.java
+END

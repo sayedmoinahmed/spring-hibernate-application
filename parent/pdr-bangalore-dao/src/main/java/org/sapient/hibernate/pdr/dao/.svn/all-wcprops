@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao
+END
+PersonalInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/PersonalInfoDao.java
+END
+OrganizationInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/OrganizationInfoDao.java
+END
+AllocationInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/AllocationInfoDao.java
+END
+AssignmentInfoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/pdr-bangalore-dao/src/main/java/org/sapient/hibernate/pdr/dao/AssignmentInfoDao.java
+END

@@ -1,0 +1,25 @@
+<html>
+<head>
+<h3>Dear <font color="red">${firstName} ${lastName}</font></h3>
+</head>
+<body>
+<div>
+
+Welcome to <b><font color="red">Resume Management</font></b> <b>System.</b>
+<br>
+Your password for <b><font color="red">Resume Management</font></b> <b>System</b> is reset and the new temporary password is: &nbsp;&nbsp;    ${randomPassword}
+<br>
+You can access the <a href="http://10.209.6.150:8080/CVBangaloreWeb"><b>Resume Management System</b></a>  by using your Sapient NTLogin ID.
+<br><br>
+N.B:- It is recommended to change your password after login
+<br><br>
+All The Best,
+<br><br>
+Thanks,<br>
+<b><font color="red">Resume Management</font></b> <b>System</b> TEAM, Bangalore.</b>
+<br>
+<b>Email </b>: ssahoo5@sapient.com
+</div>
+
+</body>
+</html>

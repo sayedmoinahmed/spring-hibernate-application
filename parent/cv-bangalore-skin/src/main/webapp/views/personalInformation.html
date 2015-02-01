@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Personal Information</title>
+             <link rel="stylesheet" type="text/css" href="../styles/view.css" media="all">
+<script type="text/javascript" src="../scripts/view.js"></script>
+<script type="text/javascript" src="../scripts/calendar.js"></script>
+</head>
+<body id="main_body">
+
+	<img id="top" src="top.png" alt="">
+	<div id="form_container">
+
+		<h1>
+			<a>Personal Information</a>
+		</h1>
+		<form id="form_150434" class="appnitro" method="post" action="">
+			<div class="form_description">
+				<h2>Personal Information</h2>
+				<p>Please enter your Personal Information here</p>
+			</div>
+			<ul>
+
+				<li id="li_1"><label class="description" for="element_1">Oracle
+						Id </label>
+					<div>
+						<input id="element_1" name="element_1" class="element text medium"
+							type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_1">
+						<small>Please enter your Oracle Id here.</small>
+					</p></li>
+				<li id="li_2"><label class="description" for="element_2">NT
+						Login </label>
+					<div>
+						<input id="element_2" name="element_2" class="element text medium"
+							type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_2">
+						<small>Please enter your NT Login here.</small>
+					</p></li>
+				<li id="li_3"><label class="description" for="element_3">First
+						Name </label>
+					<div>
+						<input id="element_3" name="element_3" class="element text medium"
+							type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_3">
+						<small>Please enter your First Name here.</small>
+					</p></li>
+				<li id="li_4"><label class="description" for="element_4">Middle
+						Name </label>
+					<div>
+						<input id="element_4" name="element_4" class="element text medium"
+							type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_4">
+						<small>Please enter your Middle Name here.</small>
+					</p></li>
+				<li id="li_5"><label class="description" for="element_5">Last
+						Name </label>
+					<div>
+						<input id="element_5" name="element_5" class="element text medium"
+							type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_5">
+						<small>Please enter your Last Name/Surname here.</small>
+					</p></li>
+				<li id="li_6"><label class="description" for="element_6">Father
+						Name </label>
+					<div>
+						<input id="element_6" name="element_6" class="element text medium"
+							type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_6">
+						<small>Please enter your Father Name here.</small>
+					</p></li>
+				<li id="li_7"><label class="description" for="element_7">Nationality
+				</label>
+					<div>
+						<input id="element_7" name="element_7" class="element text medium"
+							type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_7">
+						<small>Please enter your Nationality here.</small>
+					</p></li>
+				<li id="li_11"><label class="description" for="element_11">Gender
+				</label> <span> <input id="element_11_1" name="element_11"
+						class="element radio" type="radio" value="1" /> <label
+						class="choice" for="element_11_1">Male</label> <input
+						id="element_11_2" name="element_11" class="element radio"
+						type="radio" value="2" /> <label class="choice"
+						for="element_11_2">Female</label> </span>
+				<p class="guidelines" id="guide_11">
+						<small>Please enter your Gender here.</small>
+					</p></li>
+				<li id="li_12"><label class="description" for="element_12">Marital
+						Status </label> <span> <input id="element_12_1" name="element_12"
+						class="element radio" type="radio" value="1" /> <label
+						class="choice" for="element_12_1">Single</label> <input
+						id="element_12_2" name="element_12" class="element radio"
+						type="radio" value="2" /> <label class="choice"
+						for="element_12_2">Married</label> </span>
+				<p class="guidelines" id="guide_12">
+						<small>Please enter your Marital Status here.</small>
+					</p></li>
+				<li id="li_8"><label class="description" for="element_8">Date
+						of Birth </label> <span> <input id="element_8_1" name="element_8_1"
+						class="element text" size="2" maxlength="2" value="" type="text">
+						/ <label for="element_8_1">MM</label> </span> <span> <input
+						id="element_8_2" name="element_8_2" class="element text" size="2"
+						maxlength="2" value="" type="text"> / <label
+						for="element_8_2">DD</label> </span> <span> <input
+						id="element_8_3" name="element_8_3" class="element text" size="4"
+						maxlength="4" value="" type="text"> <label
+						for="element_8_3">YYYY</label> </span> <span id="calendar_8"> <img
+						id="cal_img_8" class="datepicker" src="../images/calendar.gif"
+						alt="Pick a date."> </span> <script type="text/javascript">
+							Calendar.setup({
+								inputField : "element_8_3",
+								baseField : "element_8",
+								displayArea : "calendar_8",
+								button : "cal_img_8",
+								ifFormat : "%B %e, %Y",
+								onSelect : selectDate
+							});
+						</script>
+					<p class="guidelines" id="guide_8">
+						<small>Please enter your Date of Birth here.</small>
+					</p></li>
+				<li id="li_9"><label class="description" for="element_9">Date
+						of Joining </label> <span> <input id="element_9_1"
+						name="element_9_1" class="element text" size="2" maxlength="2"
+						value="" type="text"> / <label for="element_9_1">MM</label>
+				</span> <span> <input id="element_9_2" name="element_9_2"
+						class="element text" size="2" maxlength="2" value="" type="text">
+						/ <label for="element_9_2">DD</label> </span> <span> <input
+						id="element_9_3" name="element_9_3" class="element text" size="4"
+						maxlength="4" value="" type="text"> <label
+						for="element_9_3">YYYY</label> </span> <span id="calendar_9"> <img
+						id="cal_img_9" class="datepicker" src="../images/calendar.gif"
+						alt="Pick a date."> </span> <script type="text/javascript">
+							Calendar.setup({
+								inputField : "element_9_3",
+								baseField : "element_9",
+								displayArea : "calendar_9",
+								button : "cal_img_9",
+								ifFormat : "%B %e, %Y",
+								onSelect : selectDate
+							});
+						</script>
+					<p class="guidelines" id="guide_9">
+						<small>Please enter your Date of Joining here.</small>
+					</p></li>
+				<li id="li_13"><label class="description" for="element_13">Person
+						Type </label> <span> <input id="element_13_1" name="element_13"
+						class="element radio" type="radio" value="1" /> <label
+						class="choice" for="element_13_1">Sapient Staff</label> <input
+						id="element_13_2" name="element_13" class="element radio"
+						type="radio" value="2" /> <label class="choice"
+						for="element_13_2">Contractor</label> <input id="element_13_3"
+						name="element_13" class="element radio" type="radio" value="3" />
+						<label class="choice" for="element_13_3">Trainee</label> </span>
+				<p class="guidelines" id="guide_13">
+						<small>Please enter your Person Type here.</small>
+					</p></li>
+				<li id="li_10"><label class="description" for="element_10">Designation
+				</label>
+					<div>
+						<input id="element_10" name="element_10"
+							class="element text medium" type="text" maxlength="255" value="" />
+					</div>
+					<p class="guidelines" id="guide_10">
+						<small>Please enter your Designation here.</small>
+					</p></li>
+
+				<li class="buttons"><input type="hidden" name="form_id"
+					value="150434" /><a href ="C:\Documents and Settings\komar\Desktop\forms\form\form\Contact_information_form.html"> <input id="saveForm" class="button_text"
+					type="submit" name="submit"/></a></li>
+			</ul>
+		</form>
+		<div id="footer">
+			Copyright 2011, Sapient Corporation. All rights reserved
+		</div>
+	</div>
+	<img id="bottom" src="bottom.png" alt="">
+</body>
+</html>

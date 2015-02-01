@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<table name="organization_info">
+		<column>oracle_id</column>
+		<column>first_name</column>
+		<column>middle_name</column>
+		<column>last_name</column>
+		<column>division</column>
+		<column>bu</column>
+		<column>hrms_team</column>
+		<column>organization</column>
+		<column>home_off</column>
+		<column>curr_off</column>
+		<column>company</column>
+		<column>cost_center_code</column>
+		<column>cost_center_name</column>
+		<column>persontype</column>
+		<column>startdate</column>
+		<column>termdate</column>
+		<column>home_region</column>
+		<column>current_region</column>
+		<column>business_focus</column>
+		<column>primary_capability</column>
+		<column>capacity_type</column>
+		<column>utilization_target</column>
+		<column>revenue_target</column>
+		<column>profit_target</column>
+		<column>loa_return_flag</column>
+		<column>category</column>
+		<row>
+			<value description="oracle_id">80314</value>
+			<value description="first_name"> Martha	</value>
+			<null/>	
+			<value description="last_name">Georgiou Kamfona</value>
+			<value description="division">Delivery</value>
+			<value description="bu">EU</value>
+			<null/>
+			<value description="organization">EU-Marketing.UK</value>
+			<value description="home_off">London</value>
+			<value description="curr_off">London</value>
+			<value description="company">SAPE UK</value>
+			<value description="cost_center_code">1330</value>
+			<value description="cost_center_name">EU-Marketing Delivery</value>
+			<value description="persontype">Sapient Person</value>
+			<value description="startdate">7/19/2010</value>
+			<null/>
+			<value description="home_region">EU</value>
+			<value description="current_region">EU</value>
+			<value description="business_focus">Marketing Services</value>
+			<value description="primary_capability">Creative Design</value>
+			<null/>
+			<value description="utilization_target">76%</value>
+			<null/>
+			<null/>
+			<value description="loa_return_flag">Y</value>
+			<value description="category">Fulltime-Regular</value>
+		</row>
+	</table>
+	<table name="assignment_info">
+		<column>oracle_id</column>
+		<column>status</column>
+		<column>stai_flag</column>
+		<column>title_name</column>
+		<column>career_stage</column>
+		<column>last_promotion_date</column>
+		<column>time_since_last_promotion</column>
+		<column>cm_id</column>
+		<column>cm</column>
+		<column>cm_bu</column>
+		<column>cm_title</column>
+		<column>supervisor_id</column>
+		<column>supervisor</column>
+		<column>relocation_flag</column>	
+		<row>
+			<value description="oracle_id">80314</value>
+			<value description="status">Active</value>
+			<value description="stai_flag">N</value>
+			<value description="title_name">Designer</value>
+			<value description="career_stage">Associate</value>
+			<null/>
+			<value description="time_since_last_promotion">0.72</value>
+			<null/>
+			<null/>
+			<null/>
+			<null/>
+			<value description="supervisor_id">59415</value>
+			<value description="supervisor">Cassian Opara</value>
+			<value description="relocation_flag">N</value>
+		</row>		
+	</table>	
+	<table name="personal_info">
+		<column>oracle_id</column>
+		<column>father_name</column>
+		<column>gender</column>
+		<column>marital_status</column>
+		<column>nationality</column>
+		<column>dob</column>
+		<column>address_line1</column>
+		<column>address_line2</column>
+		<column>address_line3</column>
+		<column>city</column>
+		<column>county</column>
+		<column>state</column>
+		<column>postal_code</column>
+		<column>country</column>
+		<column>home_phone</column>
+		<column>nt_login</column>
+		<column>email_address</column>
+		<column>last_competency_update</column>
+		<row>
+			<value description="oracle_id">80314</value>
+			<null/>
+			<value description="gender">Female</value>
+			<value description="marital_status">Single</value>
+			<value description="nationality">Greek</value>
+			<value description="dob">4/3/1985</value>
+			<value description="address_line1">25 The Tower, Victoria Wharf</value>
+			<value description="address_line2">Palmers Road</value>
+			<null/>
+			<value description="city">London</value>
+			<null/>
+			<null/>
+			<value description="postal_code">E2 0SX</value>
+			<value description="country">GB</value>
+			<null/>
+			<value description="nt_login">mageor</value>
+			<value description="email_address">mgeorgioukamfona@sapient.com</value>
+			<value description="last_competency_update">7/20/2010</value>
+		</row>		
+	</table>
+	<table name="allocation_info">
+		<column>oracle_id</column>
+		<column>domain</column>
+		<column>pid</column>
+		<column>project_name</column>
+		<column>client_name</column>
+		<column>team_name</column>
+		<column>primary_project_capability</column>
+		<column>revenue_subcategory</column>
+		<column>alloc_start_date</column>
+		<column>alloc_end_date</column>
+		<column>commitment</column>
+		<column>revenue_group</column>
+		<row>
+			<value description="oracle_id">80314</value>
+			<value description="domain">Creative</value>
+			<value description="pid">78578</value>
+			<value description="project_name">Q1 2011 Sprint</value>
+			<value description="client_name">Vodafone UK</value>
+			<value description="team_name">Team Red</value>
+			<value description="primary_project_capability">User Experience</value>
+			<value description="revenue_subcategory">eCommerce</value>
+			<value description="alloc_start_date">4/01/11</value>
+			<value description="alloc_end_date">6/30/11</value>
+			<value description="commitment">100%</value>
+			<value description="revenue_group">Marketing</value>
+		</row>		
+	</table>
+</dataset>

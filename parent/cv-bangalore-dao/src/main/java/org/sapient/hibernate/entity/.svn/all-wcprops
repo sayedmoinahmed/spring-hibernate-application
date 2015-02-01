@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity
+END
+SkillsTypeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/SkillsTypeEntity.java
+END
+SearchResultEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/SearchResultEntity.java
+END
+EmploymentInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/EmploymentInfoEntity.java
+END
+ContactInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/ContactInfoEntity.java
+END
+SkillsInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/SkillsInfoEntity.java
+END
+OrganizationInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/OrganizationInfoEntity.java
+END
+RecognitionTypeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/RecognitionTypeEntity.java
+END
+ProjectInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/ProjectInfoEntity.java
+END
+AssignmentInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/AssignmentInfoEntity.java
+END
+EducationInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/EducationInfoEntity.java
+END
+PersonalDataInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/PersonalDataInfoEntity.java
+END
+ProfileSummaryInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/ProfileSummaryInfoEntity.java
+END
+AbstractAuditEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/AbstractAuditEntity.java
+END
+UserInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/UserInfoEntity.java
+END
+RecognitionInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/RecognitionInfoEntity.java
+END
+UserSecurityQuestionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/UserSecurityQuestionEntity.java
+END
+SecurityQuestionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/SecurityQuestionEntity.java
+END
+PersonalInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/PersonalInfoEntity.java
+END
+AllocationInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/AllocationInfoEntity.java
+END
+AddressInfoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/entity/AddressInfoEntity.java
+END

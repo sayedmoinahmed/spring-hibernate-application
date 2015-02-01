@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/assembly
+END
+binary-jar-assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/assembly/binary-jar-assembly.xml
+END
+dependency-zip-assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/assembly/dependency-zip-assembly.xml
+END
+resource-jar-assembly.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/assembly/resource-jar-assembly.xml
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl
+END
+PersonalDataInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/PersonalDataInfoDaoImpl.java
+END
+ProfileSummaryInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/ProfileSummaryInfoDaoImpl.java
+END
+UserInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/UserInfoDaoImpl.java
+END
+RecognitionInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/RecognitionInfoDaoImpl.java
+END
+UserSecurityQuestionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/UserSecurityQuestionDaoImpl.java
+END
+SecurityQuestionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/SecurityQuestionDaoImpl.java
+END
+PersonalInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/PersonalInfoDaoImpl.java
+END
+AllocationInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/AllocationInfoDaoImpl.java
+END
+AddressInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/AddressInfoDaoImpl.java
+END
+SkillsTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/SkillsTypeDaoImpl.java
+END
+SearchEmployeeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/SearchEmployeeDaoImpl.java
+END
+EmploymentInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/EmploymentInfoDaoImpl.java
+END
+ContactInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/ContactInfoDaoImpl.java
+END
+SkillsInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/SkillsInfoDaoImpl.java
+END
+OrganizationInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/OrganizationInfoDaoImpl.java
+END
+RecognitionTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/RecognitionTypeDaoImpl.java
+END
+ProjectInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/ProjectInfoDaoImpl.java
+END
+AssignmentInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/AssignmentInfoDaoImpl.java
+END
+EducationInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-dao/src/main/java/org/sapient/hibernate/dao/impl/EducationInfoDaoImpl.java
+END

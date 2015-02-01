@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/resources
+END
+personalData.csv
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/resources/personalData.csv
+END
+PDRData.csv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/resources/PDRData.csv
+END
+cv-bangalore-batch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/resources/cv-bangalore-batch.properties
+END
+personalData3.csv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/resources/personalData3.csv
+END
+cv-bangalore-qa-trigger.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/resources/cv-bangalore-qa-trigger.sql
+END
+jobContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-batch/src/main/resources/jobContext.xml
+END

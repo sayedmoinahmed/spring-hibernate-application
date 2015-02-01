@@ -1,0 +1,26 @@
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+		<mapping class="org.sapient.hibernate.entity.UserInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.ContactInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.EducationInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.EmploymentInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.AddressInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.ProjectInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.SkillsTypeEntity" />
+		<mapping class="org.sapient.hibernate.entity.SkillsInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.ProfileSummaryInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.RecognitionTypeEntity" />
+		<mapping class="org.sapient.hibernate.entity.RecognitionInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.PersonalDataInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.SecurityQuestionEntity" />
+		<mapping class="org.sapient.hibernate.entity.UserSecurityQuestionEntity" />
+		<mapping class="org.sapient.hibernate.entity.SearchResultEntity" />
+		<mapping class="org.sapient.hibernate.entity.AllocationInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.AssignmentInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.OrganizationInfoEntity" />
+		<mapping class="org.sapient.hibernate.entity.PersonalInfoEntity" />
+	</session-factory>
+</hibernate-configuration>

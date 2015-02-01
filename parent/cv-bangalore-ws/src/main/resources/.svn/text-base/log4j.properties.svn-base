@@ -1,0 +1,18 @@
+log4j.rootCategory=DEBUG, stdout
+
+log4j.category.org.springframework=WARN
+log4j.category.org.hibernate=WARN
+log4j.category.org.sapient=INFO
+log4j.category.org.apache.commons.digester.Digester=WARN
+
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%d{ISO8601} [%p] %c{1},@%t %m%n
+log4j.appender.stdout.ImmediateFlush=true
+
+log4j.appender.file=org.apache.log4j.FileAppender
+log4j.appender.file.File=logs/App.log
+log4j.appender.file.Append=false
+log4j.appender.file.layout=org.apache.log4j.PatternLayout
+log4j.appender.file.layout.ConversionPattern=%d{ISO8601} [%p] %c{1},@%t %m%n
+log4j.appender.file.ImmediateFlush=true

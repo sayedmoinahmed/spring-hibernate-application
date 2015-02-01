@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+table {
+	background-color:#D8D9DB;
+	border-collapse:collapse;
+	width:700px;
+	border:1px solid #F04E22;
+}
+tr {
+	vertical-align:top;
+}
+th {
+	background-color:#F04E22;
+	color:#FFF !important;
+	font-size:14px;
+	font-family:"Calibri", Arial, Helvetica, sans-serif;
+}
+td {
+	padding:2px 10px;
+	color:#000 !important;
+	font-size:14px;
+	font-family:"Calibri", Arial, Helvetica, sans-serif;
+	border:1px solid #F04E22;
+}
+.even {
+	background-color:#FFFFFF;
+}
+
+
+
+
+.adv_search_table {
+	background-color:#D8D9DB;!important;
+	border-collapse:collapse;
+	width:700px;
+	border:1px solid #F04E22;
+}
+.adv_search_tr {
+	vertical-align:top;
+}
+.adv_search_th {
+	background-color:#F04E22;
+	color:#FFF !important;
+	font-size:14px;
+	font-family:"Calibri", Arial, Helvetica, sans-serif;
+}
+.adv_search_td {
+	padding:2px 10px;
+	color:#000 !important;
+	font-size:14px;
+	font-family:"Calibri", Arial, Helvetica, sans-serif;
+	
+}

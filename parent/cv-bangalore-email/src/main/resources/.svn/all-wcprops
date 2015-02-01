@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-email/src/main/resources
+END
+welcomeMail.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-email/src/main/resources/welcomeMail.vm
+END
+UserManual.doc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-email/src/main/resources/UserManual.doc
+END
+emailBody.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-email/src/main/resources/emailBody.vm
+END
+applicationContext-email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-email/src/main/resources/applicationContext-email.xml
+END
+notifyPassword.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/scm/cvbangalore/!svn/ver/1112/trunk/Development/UAT10152011/cv-bangalore-email/src/main/resources/notifyPassword.vm
+END
